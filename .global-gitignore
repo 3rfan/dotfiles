@@ -1,0 +1,20 @@
+# Package Managers #
+####################
+node_modules/
+
+# Logs and databases #
+######################
+*.log
+
+# OS generated files #
+######################
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Ignore indicator #
+####################
+# When a file contains the following substring it will be ignored
+# e.g. Todos.gitignored.md would be ignored by git
+*.gitignored.*
